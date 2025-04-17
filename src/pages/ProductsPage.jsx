@@ -47,7 +47,7 @@ const ProductsPage = () => {
             <img
               src={SupportIcon} // replace with actual file name
               alt="24/7 Customer Support"
-              className="mx-auto mb-4 w-14 h-14"
+              className="mx-auto mb-4 w-18 h-18"
             />
             <h3 className="text-lg font-semibold text-purple-800">
               24/7 Customer Support
