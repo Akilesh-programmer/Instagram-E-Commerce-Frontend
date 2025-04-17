@@ -105,11 +105,6 @@ const ProductsPage = () => {
 
             {/* Browse all categories */}
             <div className="bg-gradient-to-t from-gray-800 to-white rounded-lg overflow-hidden shadow-md flex items-center justify-center flex-col p-4">
-              <img
-                src="https://via.placeholder.com/100x100.png?text=Image"
-                alt="Browse Categories"
-                className="w-20 h-20 mb-4"
-              />
               <p className="text-white text-lg font-semibold text-center">
                 Browse all <br /> categories
               </p>
